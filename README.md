@@ -1,4 +1,4 @@
-### Airline Pricing Dynamics Analysis Project
+Airline Pricing Dynamics Analysis Project
 
 ## Overview
 During our capstone project, our team of five dynamic students collaborated on a compelling assignment for our client, QL2. The primary objective was to unravel intricate correlations in pricing dynamics among competitor and partner airlines across three distinct markets.
